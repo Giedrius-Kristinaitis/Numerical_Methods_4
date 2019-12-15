@@ -49,7 +49,7 @@ public class Main {
      */
     private void showWindow() {
         JFrame frame = new JFrame();
-        frame.setTitle("L3");
+        frame.setTitle("L4");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.setBounds(64, 64, 512, 586);

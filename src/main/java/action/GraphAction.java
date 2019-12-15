@@ -237,7 +237,7 @@ public abstract class GraphAction implements ActionListener, GraphDataProvider {
      */
     @Override
     public String getWindowTitle() {
-        return "L3";
+        return "L4";
     }
 
     /**
